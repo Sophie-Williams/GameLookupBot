@@ -60,3 +60,4 @@ typings/
 # bot stuff
 auth.json
 
+.vs*
