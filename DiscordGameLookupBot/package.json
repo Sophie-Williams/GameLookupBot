@@ -1,0 +1,12 @@
+{
+  "name": "game-lookup",
+  "version": "1.0.0",
+  "description": "Lookup game information",
+  "main": "bot.js",
+  "author": "Tyler",
+  "private": true,
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "giantbomb": "^2.0.2"
+  }
+}

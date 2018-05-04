@@ -1,0 +1,17 @@
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bin\Debug\ReverseMap\resources.pri
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bin\Debug\AppxManifest.xml
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bin\Debug\DiscordGameLookupBot.build.appxrecipe
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bld\Debug\DiscordGameLookupBot.jsproj.CoreCompileInputs.cache
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bld\Debug\ResourceHandlingTask.state
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bld\Debug\priconfig.xml
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bld\Debug\priconfig.xml.intermediate
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bld\Debug\layout.resfiles
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bld\Debug\layout.resfiles.intermediate
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bld\Debug\resources.resfiles
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bld\Debug\resources.resfiles.intermediate
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bld\Debug\pri.resfiles
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bld\Debug\pri.resfiles.intermediate
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bld\Debug\qualifiers.txt
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Tyler\Dev\DiscordGameLookupBot\DiscordGameLookupBot\bld\Debug\ProjectArchitectures.txt
