@@ -24,11 +24,21 @@ function buildMessage(json) {
     return message;
 }
 
-function sendToChat(channelID, message) {
-    bot.sendMessage({
-        to: channelID,
-        message: message
-    });
+function sendToChat(channelID, message, image = false) {
+    if (image) {
+        bot.uploadFile({
+            to: channelID,
+            file: image,
+            message: message
+        });
+    }
+    else {
+        bot.sendMessage({
+            to: channelID,
+            message: message,
+            typing: true
+        });
+    }
 }
 
 function getDate(dateString) {
